@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://abhayverma2108.github.io/My-Portfolio/](https://abhayverma2108.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://abhayverma2108.github.io/My-Portfolio/](https://abhayverma2108.netlify.app)
 
 - 💬 Ask me about **anything(I will google)**
 
