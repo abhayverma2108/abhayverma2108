@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Abhay Verma</h1>
-<h3 align="center">A passionate Software developer from Lithuania</h3>
+<h3 align="center">A passionate Test Engineer from Lithuania</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayverma2108" alt="abhayverma2108" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything(I will google)**
 
-- 📫 How to reach me **abhay175@gmail.com**
+- 📫 How to reach me **abhayv175@gmail.com**
 
 - ⚡ Fun fact **I am also a passionate geo politician**
 
